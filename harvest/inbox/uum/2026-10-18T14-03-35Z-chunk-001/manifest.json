@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "uum",
+  "source_name": "Perpustakaan Sultanah Bahiyah (Universiti Utara Malaysia)",
+  "source_base_url": "https://library.uum.edu.my/",
+  "terms_url": "https://library.uum.edu.my/",
+  "terms_verified_on": "2026-10-18",
+  "harvester_name": "uum-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-18T14-03-35Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-18T14:04:49.691Z",
+  "finished_at": "2026-10-18T14:04:49.691Z",
+  "record_count": 0,
+  "error_count": 0,
+  "status": "partial",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/uum; contact@pustakaterbuka.org)",
+  "notes": "UUM harvest completed. Total: 0 records."
+}
